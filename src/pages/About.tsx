@@ -8,7 +8,7 @@ export default function About() {
         {/* Hero */}
         <section className="hero-gradient wave-pattern py-20">
           <div className="container mx-auto px-4 text-center">
-            <h1 className="font-heading text-4xl md:text-5xl font-bold text-primary-foreground mb-4">Sobre o Mercado Itajaí</h1>
+            <h1 className="font-heading text-4xl md:text-5xl font-bold text-primary-foreground mb-4">Sobre o Openshop</h1>
             <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto">
               Conectando o comércio local de Itajaí ao mundo digital, valorizando a tradição e a qualidade dos negócios da nossa cidade.
             </p>
@@ -20,7 +20,7 @@ export default function About() {
             <div>
               <h2 className="font-heading text-3xl font-bold text-foreground mb-4">Nossa Missão</h2>
               <p className="text-foreground/80 leading-relaxed mb-4">
-                O Mercado Itajaí nasceu do desejo de fortalecer o comércio local da nossa cidade. Acreditamos que cada pequeno negócio 
+                O Openshop nasceu do desejo de fortalecer o comércio local da nossa cidade. Acreditamos que cada pequeno negócio 
                 tem uma história única para contar e produtos especiais para oferecer.
               </p>
               <p className="text-foreground/80 leading-relaxed">

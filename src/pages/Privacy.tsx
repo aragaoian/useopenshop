@@ -19,7 +19,7 @@ export default function Privacy() {
             <h2 className="font-heading text-xl font-semibold text-foreground">5. Seus Direitos</h2>
             <p>Conforme a LGPD, você tem direito a acessar, corrigir, excluir e portar seus dados pessoais. Entre em contato conosco para exercer esses direitos.</p>
             <h2 className="font-heading text-xl font-semibold text-foreground">6. Contato</h2>
-            <p>Para questões sobre esta política, entre em contato: <strong>privacidade@mercadoitajai.com.br</strong></p>
+            <p>Para questões sobre esta política, entre em contato: <strong>privacidade@openshop.com.br</strong></p>
           </div>
         </div>
       </div>

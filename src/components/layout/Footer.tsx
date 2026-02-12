@@ -10,9 +10,9 @@ export default function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 rounded-lg bg-secondary flex items-center justify-center">
-                <span className="text-secondary-foreground font-heading font-bold">M</span>
+                <span className="text-secondary-foreground font-heading font-bold">O</span>
               </div>
-              <span className="font-heading text-xl font-bold">Mercado Itajaí</span>
+              <span className="font-heading text-xl font-bold">Openshop</span>
             </div>
             <p className="text-sm text-primary-foreground/70 leading-relaxed">
               Conectando você aos melhores negócios locais de Itajaí, Santa Catarina.
@@ -55,7 +55,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-primary-foreground/15 text-center text-xs text-primary-foreground/50">
-          © 2026 Mercado Itajaí. Todos os direitos reservados.
+          © 2026 Openshop. Todos os direitos reservados.
         </div>
       </div>
     </footer>

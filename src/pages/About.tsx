@@ -8,7 +8,7 @@ export default function About() {
         {/* Hero */}
         <section className="hero-gradient wave-pattern py-20">
           <div className="container mx-auto px-4 text-center">
-            <h1 className="font-heading text-4xl md:text-5xl font-bold text-primary-foreground mb-4">Sobre o <span className="text-secondary">Openshop</span></h1>
+            <h1 className="font-heading text-4xl md:text-5xl font-bold text-secondary mb-4">Sobre o Openshop</h1>
             <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto">
               Conectando o comércio local de Itajaí ao mundo digital, valorizando a tradição e a qualidade dos negócios da nossa cidade.
             </p>

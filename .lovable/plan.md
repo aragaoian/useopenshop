@@ -1,8 +1,8 @@
 
 
-# 🛒 Mercado Itajaí — Marketplace Digital Local
+# 🛒 Openshop — Marketplace Digital Local
 
-Um marketplace digital para pequenos negócios de Itajaí, SC, com toda a UI completa, dados mockados, e pagamentos simulados. Backend será adicionado futuramente.
+O Openshop é um marketplace digital para pequenos negócios de Itajaí, SC, com toda a UI completa, dados mockados, e pagamentos simulados. Backend será adicionado futuramente.
 
 ---
 
@@ -17,7 +17,7 @@ Um marketplace digital para pequenos negócios de Itajaí, SC, com toda a UI com
 ## 📄 Telas & Funcionalidades
 
 ### 1. Header Global
-- Header semi-transparente animado que fica sólido ao rolar
+- Header semi-transparente animado que fica sólido ao rolar. Textos coloridos mesmo antes do scroll.
 - Logo à esquerda, navegação central (Início, Sobre Nós, Loja, Análises*, Gerenciar Produtos*)
 - Barra de busca, ícone do carrinho e avatar do usuário à direita
 - *Itens marcados visíveis apenas para donos de negócios
@@ -110,4 +110,3 @@ Um marketplace digital para pequenos negócios de Itajaí, SC, com toda a UI com
 - Transição suave do header (transparente → sólido)
 - Micro-animações em botões e ícones do carrinho
 - Transições de página suaves
-

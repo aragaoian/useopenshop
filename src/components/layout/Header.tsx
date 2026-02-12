@@ -60,10 +60,10 @@ export default function Header({ onSearch }: HeaderProps) {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 shrink-0">
             <div className="w-9 h-9 rounded-lg bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-heading font-bold text-lg">M</span>
+              <span className="text-primary-foreground font-heading font-bold text-lg">O</span>
             </div>
-            <span className={`font-heading text-xl font-bold hidden sm:block transition-colors ${scrolled ? 'text-foreground' : 'text-primary-foreground'}`}>
-              Mercado Itajaí
+            <span className={`font-heading text-xl font-bold hidden sm:block transition-colors ${scrolled ? 'text-foreground' : 'text-primary'}`}>
+              Openshop
             </span>
           </Link>
 
@@ -78,7 +78,7 @@ export default function Header({ onSearch }: HeaderProps) {
                     ? 'bg-primary/10 text-primary'
                     : scrolled
                       ? 'text-foreground/70 hover:text-foreground hover:bg-muted'
-                      : 'text-primary-foreground/80 hover:text-primary-foreground hover:bg-white/10'
+                      : 'text-primary hover:text-primary/80 hover:bg-white/10'
                 }`}
               >
                 {link.label}

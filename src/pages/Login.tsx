@@ -30,10 +30,10 @@ export default function Login() {
           <div className="bg-card rounded-2xl border border-border p-8 shadow-lg">
             <div className="text-center mb-8">
               <div className="w-12 h-12 rounded-xl bg-primary flex items-center justify-center mx-auto mb-3">
-                <span className="text-primary-foreground font-heading font-bold text-xl">M</span>
+                <span className="text-primary-foreground font-heading font-bold text-xl">O</span>
               </div>
               <h1 className="font-heading text-2xl font-bold text-foreground">{isLogin ? 'Entrar' : 'Criar Conta'}</h1>
-              <p className="text-sm text-muted-foreground mt-1">{isLogin ? 'Bem-vindo de volta!' : 'Junte-se ao Mercado Itajaí'}</p>
+              <p className="text-sm text-muted-foreground mt-1">{isLogin ? 'Bem-vindo de volta!' : 'Junte-se ao Openshop'}</p>
             </div>
 
             <form onSubmit={handleSubmit} className="space-y-4">
